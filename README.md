@@ -1,4 +1,5 @@
-# Chalktalk
+# Chalktalk-Beaker
+A fork of Chalktalk for wrapping into a Beaker App
 
 ![](readme_images/Pendulum.gif)
 
